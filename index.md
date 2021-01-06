@@ -1,13 +1,13 @@
 jasonstartshere{
    "nataks":[
       {
-         "Drama Name":"Natak",
+         "DramaName":"Natak",
          "Venue":"b",
          "Price":"150",
          "Date":"21-27Jan",
          "Details":"Cast",
-         "phone booking":"9359184939",
-         "online booking":"b"
+         "phoneBooking":"9359184939",
+         "onlineBooking":"b"
       }
    ]
 }jasonendshere
