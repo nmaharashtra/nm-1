@@ -10,9 +10,9 @@ jasonstartshere{
          "onlineBooking":"b"
       },
       {
-         "DramaName":"Natak 2",
+         "DramaName":"Natak-2",
          "Venue":"balgandharv",
-         "Price":"150 onwards",
+         "Price":"150-onwards",
          "Date":"21Jan",
          "Details":"Cast",
          "phoneBooking":"9359184939",
